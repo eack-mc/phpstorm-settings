@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="engine.dguerrera.env" id="c2364fb2-9628-4ac9-88e5-f7777c84b8b8" port="22" nameFormat="DESCRIPTIVE" username="web-user" />
+    </configs>
+  </component>
+</application>
